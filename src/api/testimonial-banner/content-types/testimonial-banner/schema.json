@@ -1,0 +1,36 @@
+{
+  "kind": "singleType",
+  "collectionName": "testimonial_banners",
+  "info": {
+    "singularName": "testimonial-banner",
+    "pluralName": "testimonial-banners",
+    "displayName": "testimonial-banner"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "subtitle": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    },
+    "clientname": {
+      "type": "string"
+    },
+    "designation": {
+      "type": "string"
+    },
+    "img": {
+      "type": "string"
+    },
+    "logo": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "kind": "collectionType",
+  "collectionName": "services",
+  "info": {
+    "singularName": "service",
+    "pluralName": "services",
+    "displayName": "service",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "service1": {
+      "type": "string"
+    },
+    "description1": {
+      "type": "richtext"
+    },
+    "service2": {
+      "type": "string"
+    },
+    "description2": {
+      "type": "richtext"
+    },
+    "service3": {
+      "type": "string"
+    },
+    "description3": {
+      "type": "richtext"
+    },
+    "service4": {
+      "type": "string"
+    },
+    "description4": {
+      "type": "richtext"
+    },
+    "service5": {
+      "type": "string"
+    },
+    "description5": {
+      "type": "richtext"
+    },
+    "service6": {
+      "type": "string"
+    },
+    "description6": {
+      "type": "richtext"
+    },
+    "icon": {
+      "type": "string"
+    }
+  }
+}
